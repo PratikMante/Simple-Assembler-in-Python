@@ -18,3 +18,8 @@ This is a simple 2 pass assembler code written in Python
 14. Similarly check lit table with file1 &amp; write to pass2
 15. goto 11 until loop ends
 16. Close all files
+
+
+## Flowchart
+
+![](images/assembler-flowchart.png)
