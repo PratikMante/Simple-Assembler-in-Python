@@ -1,0 +1,6 @@
+Add. Ln  Vl  Symbol
+1011 na  na   LOOP
+1020 na  '1'  ONE
+1021 10  na   TEN
+1022 na  '2'  TWO
+1023 20  na   THIS
